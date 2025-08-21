@@ -15,3 +15,5 @@ The goal is to improve my problem-solving skills, strengthen core concepts, and 
 # 📌 Problem List
 
 1. Compare the Triplets(https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
+2. A Very Big sum(https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)
+3. 
