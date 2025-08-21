@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class Solution {
+
+    static long sumArray(int[] arr) {
+        long sum = 0;
+        for (int num : arr) {
+            sum += num;
+        }
+        return sum;
+    }
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int[] arr = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            arr[i] = scan.nextInt();
+        }
+        scan.close();
+
+        long result = sumArray(arr);
+        System.out.println(result);
+    }
+}
