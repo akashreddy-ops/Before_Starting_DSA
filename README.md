@@ -58,3 +58,6 @@ The goal is to improve my problem-solving skills, strengthen core concepts, and 
 42. Insertion Sort part2(https://www.hackerrank.com/challenges/insertionsort2/problem)
 43. Running Time of Algorithms(https://www.hackerrank.com/challenges/runningtime/problem)
 44. Halloween Sale(https://www.hackerrank.com/challenges/halloween-sale/problem)
+
+
+## Before Starting DSA practise These all questions. To improve your logical thinking it makes to help you.
